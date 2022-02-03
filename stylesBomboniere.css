@@ -1,0 +1,100 @@
+body {
+    background-color: rgba(235, 219, 74, 0.418);
+}
+
+h1, h2, h3 {
+    font-family: Archivo, "Times New Roman", Serif;
+    color: #B22222;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h3 {
+      text-align: left;
+  }
+
+  table {
+    width: 40%;
+    font-size: 15px;
+    font-family: Cursive, Monospace;
+  }
+ 
+  td {
+    text-align: left;
+  }
+
+h4, p {
+    font-family: Cursive, Monospace;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+p {
+    text-align: justify;
+    font-family: Cursive, Monospace;
+    font-size: 18px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #000000;
+    
+	}
+a:hover {
+	text-decoration: underline; 
+	color: #B22222
+    }
+
+a:focus {
+    background-color: #FF8C00;
+    }
+
+a:active {
+    color: #FF8C00;
+    }
+
+.page-link {
+        text-decoration: underline;
+    }
+
+main h3.localizacao {
+    color: #FF8C00;
+    text-align: center;
+    font-size: 12px;
+}
+
+#mapa {
+    border-radius: 10px;
+    border: 1px solid #FF8C00;
+
+    }
+
+footer p {
+    text-align: center;
+    background-color: #FF8C00;
+    font-size: 14px;	 
+}
